@@ -1,0 +1,66 @@
+# Site settings
+title: Torrent Polymers | Pipe Fittings
+description: "Manufacturer of PVC, PP, HDPE, MDPE, Compression Pipe Fittings and Plastic Products"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: Torrent Polymers
+    hero_description: Manufacturer of PVC, PP, HDPE, MDPE, Compression Pipe Fittings and Plastic Products.
+
+# Contact form
+api_token: 3c459085c32890bae0cc6a195a50c3c8 # Enter API token here
+
+# Contact info
+contact:
+    phone: +91 9871661169
+    email: torrentpolymers@gmail.com
+    address: Ground Floor, Plot No. - 166, Pkt-N, Sector-1, Bawana Industrial Area, Delhi-39
+
+# Opening hours
+specialist1: Rigid PVC Products
+specialist2: HDPE Pipe Fittings
+specialist3: Compression Fittings
+specialist4: PE Pipe Fittings
+specialist5: PP Saddles
+specialist6: Pipe Saddles
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Von schroeders 273, Viña del mar, Chile
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+feed: yes
+
+# Footer
+copyright: © 2018 Torrent Polymers - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:

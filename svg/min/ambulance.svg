@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="14"
+   viewBox="0 0 15 14"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="ambulance.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1827"
+     inkscape:window-height="1051"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="16.857143"
+     inkscape:cx="7.5"
+     inkscape:cy="7"
+     inkscape:window-x="84"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#444"
+     d="M5 11q0-.414-.293-.707T4 10t-.707.293T3 11t.293.707T4 12t.707-.293T5 11zM2 7h3V5H3.766q-.11.016-.172.07L2.07 6.593q-.054.094-.07.172V7zm10 4q0-.414-.293-.707T11 10t-.707.293T10 11t.293.707T11 12t.707-.293T12 11zm1-5.25v-1.5q0-.11-.07-.18T12.75 4H11V2.25q0-.11-.07-.18T10.75 2h-1.5q-.11 0-.18.07T9 2.25V4H7.25q-.11 0-.18.07T7 4.25v1.5q0 .11.07.18t.18.07H9v1.75q0 .11.07.18t.18.07h1.5q.11 0 .18-.07t.07-.18V6h1.75q.11 0 .18-.07t.07-.18zm2-4.25v9q0 .203-.148.352T14.5 11H13q0 .828-.586 1.414T11 13t-1.414-.586T9 11H6q0 .828-.586 1.414T4 13t-1.414-.586T2 11H1q-.203 0-.352-.148T.5 10.5t.148-.352T1 10V6.75q0-.203.102-.453t.25-.398L2.9 4.35q.147-.148.397-.25T3.75 4H5V1.5q0-.203.148-.352T5.5 1h9q.203 0 .352.148T15 1.5z"
+     id="path2"
+     style="fill:#186bb3;fill-opacity:1" />
+</svg>
