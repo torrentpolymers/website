@@ -1,40 +1,47 @@
-- image_thumb: 1.jpg
-  image_large: 1.jpg
+- image_thumb: teethumb.jpg
+  image_large: tee1.jpg
   image_alt: something meaningful
 
-- image_thumb: 12.jpg
-  image_large: 12.jpg
+- image_thumb: elbowthumb.jpg
+  image_large: elbow.jpg
   image_alt: something meaningful
 
-- image_thumb: 13.jpg
-  image_large: 13.jpg
+- image_thumb: saddlethumb.jpg
+  image_large: saddle.jpg
   image_alt: something meaningful
 
-- image_thumb: 4.jpg
-  image_large: 4.jpg
+- image_thumb: brasssaddlethumb.jpg
+  image_large: brasssaddle.jpg
   image_alt: something meaningful
 
-- image_thumb: 5.jpg
-  image_large: 5.jpg
+- image_thumb: mtastraightthumb.jpg
+  image_large: mtastraight1.jpg
   image_alt: something meaningful
 
-- image_thumb: 6.jpg
-  image_large: 6.jpg
+- image_thumb: elbowppthumb.jpg
+  image_large: elbowpp1.jpg
   image_alt: something meaningful
 
-- image_thumb: 7.jpg
-  image_large: 7.jpg
+- image_thumb: couplerthumb.jpg
+  image_large: coupler1.jpg
   image_alt: something meaningful
 
-- image_thumb: 8.jpg
-  image_large: 8.jpg
+- image_thumb: elbowmtathumb.jpg
+  image_large: elbowmta.jpg
   image_alt: something meaningful
 
-- image_thumb: 9.jpg
-  image_large: 9.jpg
+- image_thumb: ftathumb.jpg
+  image_large: fta.jpg
   image_alt: something meaningful
 
-- image_thumb: 10.jpg
-  image_large: 10.jpg
+- image_thumb: mdpetee1thumb.jpg
+  image_large: mdpetee1.jpg
   image_alt: something meaningful
 
+- image_thumb: hdpecouplerthumb.jpg
+  image_large: hdpecoupler.jpg
+  image_alt: something meaningful
+
+- image_thumb: mdpeelbow.jpg
+  image_large: mdpeelbowL.jpg
+  image_alt: something meaningful
